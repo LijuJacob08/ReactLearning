@@ -1,1 +1,3 @@
 npm install inside new project
+
+npx create-react-app <project name>
